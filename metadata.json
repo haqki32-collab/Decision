@@ -1,0 +1,5 @@
+{
+  "name": "Yes No Decision",
+  "description": "A simple, instant decision-making app that randomly generates Yes or No answers with haptic feedback and animations.",
+  "requestFramePermissions": []
+}
